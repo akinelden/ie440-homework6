@@ -1,4 +1,4 @@
-# IE440 Fall119 - Homework 6
+# IE440 Fall19 - Homework 6
 
 This is the last homework of IE440 Nonlinear Models in Operations Research lesson. The topic of the homework is **Neural networks** implementation.
 
